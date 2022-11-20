@@ -6,7 +6,7 @@
 
 - chmod +x INSTALL-TOOLS
 
-- ./install-exe
+- ./INSTALL-TOOLS
 
 
 
